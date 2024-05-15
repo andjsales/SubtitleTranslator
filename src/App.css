@@ -1,0 +1,73 @@
+
+.container-header{
+  text-align: center;
+  background-color: #0033ff;
+  padding: 20px;
+  color: white;
+}
+
+.container-content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.container-body{
+ margin-top: 70px;
+}
+
+.container-body input{
+  margin-top: 20px;
+}
+
+.container-select{
+  margin-top: 70px;
+}
+
+.container-select .selector1{
+  margin-top: 20px;
+}
+
+.select2{
+  margin-top: 70px;
+}
+
+.selector2{
+  margin-top: 20px;
+}
+
+select{
+  border: 2px solid black;
+  padding: 20px 100px;
+  border-radius: 16px;
+}
+
+select:focus{
+  background-color: #808080;
+}
+
+.container-button{
+  margin-top: 70px;
+}
+
+button{
+  padding: 20px 100px;
+  border: none;
+  background-color: #0033ff;
+  color: white;
+  cursor: pointer;
+  border-radius: 16px;
+}
+
+button:active{
+  background-color:  #3399ff;
+}
+
+::-webkit-file-upload-button{
+  border: none;
+  float: right;
+  border-radius: 16px;
+  padding: 10px;
+  cursor: pointer;
+}
