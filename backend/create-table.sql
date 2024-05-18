@@ -1,0 +1,6 @@
+CREATE TABLE translations (
+    id SERIAL PRIMARY KEY,
+    filename VARCHAR(255) NOT NULL,
+    text TEXT NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
