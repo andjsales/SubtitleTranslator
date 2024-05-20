@@ -2,7 +2,9 @@
 
 ## Overview
 
-### Frontend (App.js)
+### Frontend
+
+(App.js)
 
 - File upload
 - Language selection
@@ -10,7 +12,9 @@
 - Backend communication
 - File download
 
-### Backend (app.js, api.js, db.js, index.js, users.js, server.js, api.js)
+### Backend
+
+(app.js, api.js, db.js, index.js, users.js, server.js, api.js)
 
 - Express setup
 - Database connection
